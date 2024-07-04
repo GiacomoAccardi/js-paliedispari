@@ -13,7 +13,7 @@ console.log(role);
 let userNum = prompt('inserisci un numero da 1 a 5');
 console.log(userNum);
 //genero un numero casuale per il computer
-let pcNum = Math.floor(Math.random()*6);
+let pcNum = Math.floor(Math.random()*5)+1;
 console.log(pcNum);
 
 
