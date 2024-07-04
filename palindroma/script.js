@@ -14,4 +14,10 @@ function palindroma(a, b){
     }
 }
 
+//creo un prompt per permettere all'utente di inserire una parola da verificare
+
+let word = prompt('Inserisci qui la parola da verificare');
+console.log(word)
+
+
 
