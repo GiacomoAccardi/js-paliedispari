@@ -28,4 +28,4 @@ console.log(chars)
 let revChars = chars.reverse()
 console.log(revChars)
 
-
+let result = palindroma();
