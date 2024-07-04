@@ -24,4 +24,8 @@ console.log(word)
 let chars = word.split('');
 console.log(chars)
 
+//inverto i caratteri per poi confrontarli
+let revChars = chars.reverse()
+console.log(revChars)
+
 
