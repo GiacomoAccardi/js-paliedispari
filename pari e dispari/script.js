@@ -8,7 +8,14 @@
 
 //chiedo all'utente di inserire pari o dispari
 let role = prompt('inserisci "pari" o "dispari" per decidere che ruolo giocare');
-console.log(role)
+console.log(role);
 //chiedo all'utente di inserire un numero 
 let userNum = prompt('inserisci un numero da 1 a 5');
-console.log(userNum)
+console.log(userNum);
+//genero un numero casuale per il computer
+let pcNum = Math.floor(Math.random()*6);
+console.log(pcNum);
+
+
+
+
