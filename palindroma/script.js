@@ -20,4 +20,8 @@ let word = prompt('Inserisci qui la parola da verificare');
 console.log(word)
 
 
+//separo il valore di word in caratteri unici
+let chars = word.split('');
+console.log(chars)
+
 
