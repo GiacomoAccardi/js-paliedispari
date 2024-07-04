@@ -6,3 +6,9 @@
 5. stabilisco se il risultato è pari o dispari e decreto il vincitore
 */
 
+//chiedo all'utente di inserire pari o dispari
+let role = prompt('inserisci "pari" o "dispari" per decidere che ruolo giocare');
+console.log(role)
+//chiedo all'utente di inserire un numero 
+let userNum = prompt('inserisci un numero da 1 a 5');
+console.log(userNum)
